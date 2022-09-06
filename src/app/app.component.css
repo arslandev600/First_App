@@ -1,0 +1,15 @@
+nav{
+    margin: 0%;
+}
+main{
+    height: 80vh;
+    background-color: blanchedalmond;
+    margin: 0%;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}

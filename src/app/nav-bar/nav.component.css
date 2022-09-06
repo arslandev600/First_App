@@ -1,0 +1,16 @@
+ul{
+
+    background-color: black;
+    width: 100vw;
+    padding: 20px;
+    margin: 0%;
+    text-align: center;
+}
+li{
+    display: inline;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
